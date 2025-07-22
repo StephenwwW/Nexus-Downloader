@@ -87,7 +87,7 @@ This project is released under the MIT License.
 
 -----
 
-\<br\>
+
 
 # Nexus Downloader (繁體中文)
 
