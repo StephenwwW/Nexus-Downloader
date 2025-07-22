@@ -94,7 +94,7 @@ This project is released under the MIT License.
 </div>
 
 ---
-[View this document in English](#Nexus Downloader)
+[View this document in English](#Nexus-Downloader)
 
 ### 功能
 
