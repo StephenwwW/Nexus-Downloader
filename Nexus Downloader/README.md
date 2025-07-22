@@ -20,7 +20,7 @@ A GUI downloader for TikTok, Instagram, and Facebook, built with Python and PyQt
 * **Git Configuration**: Includes a pre-configured `.gitignore` file to prevent cookie files from being committed.
 
 ### User Interface
-![Screenshot](Nexus%20Downloader/images/screenshot.png)
+![Screenshot](Nexus Downloader/images/screenshot.png)
 
 ### Security Notice
 
