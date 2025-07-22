@@ -94,8 +94,7 @@ This project is released under the MIT License.
 </div>
 
 ---
-
-[View this document in English](https://www.google.com/search?q=%23nexus-downloader)
+[View this document in English](#Nexus Downloader)
 
 ### 功能
 
