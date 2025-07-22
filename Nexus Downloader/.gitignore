@@ -1,0 +1,22 @@
+
+# 忽略所有包含個人隱私的 Cookie 檔案
+# NEVER commit these files to a public repository!
+*.json
+*.txt
+
+# 忽略 Python 自動產生的暫存檔
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 忽略 IDE (開發工具) 的設定檔
+.vscode/
+.idea/
+
+# 忽略下載的媒體檔案
+# Keep your repository clean
+downloads/
+
+# 忽略 Instaloader 自動產生的 session 檔案
+instaloader_session_*
