@@ -1,0 +1,13 @@
+# requirements.txt
+
+# Core GUI framework
+PyQt6
+
+# General-purpose downloader for TikTok and Facebook videos
+yt-dlp
+
+# For making web requests, used in some downloader modules
+requests
+
+# Specialized downloader for all Instagram content (posts, stories, etc.)
+instaloader
