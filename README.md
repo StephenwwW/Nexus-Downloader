@@ -19,10 +19,6 @@ A GUI downloader for TikTok, Instagram, and Facebook, built with Python and PyQt
 * **Video Post-Processing**: Uses FFmpeg to rebuild timestamps for downloaded Facebook videos to address potential playback stuttering.
 * **Git Configuration**: Includes a pre-configured `.gitignore` file to prevent cookie files from being committed.
 
-
-## 軟體截圖
-![Screenshot](Screen%20Hide%20Utility/images/screenshot.png)
-
 ### User Interface
 ![Screenshot](Nexus%20Downloader/images/screenshot.png)
 
@@ -113,6 +109,9 @@ This project is released under the MIT License.
 * **非互動式驗證**: 程式不會要求輸入帳號密碼，所有身份驗證均透過 Cookie 檔案處理。
 * **影片後處理**: 使用 FFmpeg 重建已下載的 Facebook 影片時間戳，以處理潛在的播放卡頓問題。
 * **Git 設定**: 內附已設定好的 `.gitignore` 檔案，以避免 Cookie 檔案被提交。
+
+## 軟體截圖
+![Screenshot](Nexus%20Downloader/images/screenshot.png)
 
 ### 安全性提醒
 
